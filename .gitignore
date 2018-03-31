@@ -8,3 +8,4 @@ dist/
 *.log
 /index.html
 build/
+package-lock.json
